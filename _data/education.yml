@@ -1,10 +1,12 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: Bachelors of Engineering, Computer Engineering
+  institute: Vishwakarma Government College
+  dates: May 2018 - Present
+  logo: vgec.png
+  overallGPA: 8.35 / 10
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
+- course: XII Standard
+  institute: Shakti School
+  dates: May 2016 - May 2018
+  logo: shakti_logo.jpg
+  overallGPA: 97.72 / 100 
   

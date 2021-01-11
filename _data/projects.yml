@@ -1,20 +1,30 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+- title: Vishesh
+  event: "This is an web application for professors who want to send files to students and wants totext their explanation about certain topic to all 
+the students of college and guide the students
+with help of web application."
+  date: November 2020
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+- title: Crop_Prediction
+  event: "This project is about doing prediction of crop based on whole sale price Index(WPI) using ML-Regression algorithm. Its aim is to help farmers,NGO and government."
+  date: January 2021
 
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
+- title: Capital Management
+  event: "The user will get list of all the expenses done
+and and will get resultant amount left in bud-
+get."
+  date: September 2020 
 
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
+- title: Work List
+  event: "This is a website which focuses to make a list
+of work that are needed to do throughout the
+day.It has CRUD functionlity."
+  date: October 2020
 
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
-  page-name: sprint1
+# - title: Fun Game
+#   event: MLH Fellowship Explorer Sprint 2
+#   date: Fall 2020 - Batch 1
+
+# - title: Flash Card Generator
+#   event: MLH Fellowship Explorer Sprint 1
+#   date: Fall 2020 - Batch 1
+#   page-name: sprint1
